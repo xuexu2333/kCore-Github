@@ -1,7 +1,6 @@
 name: KCore-Github
 version: '${project.version}'
 main: cf.kamox.kcore.github.KCoreGithub
-api-version: 1.19
 prefix: kCore
 softdepend: [ kCore ]
 authors: [ All ]
